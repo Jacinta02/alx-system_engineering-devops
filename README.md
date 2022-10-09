@@ -1,1 +1,1 @@
-This repository contain answers to shell basics task
+The repository contains solution to shell task
